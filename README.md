@@ -52,4 +52,6 @@
 - 서비스 계층에서 final 키워드를 붙여주는 이유는?
 
     - 해당 링크 : [바로가기](https://github.com/mingseok/open-source-insight-lab/blob/main/%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B3%84%EC%B8%B5%EC%97%90%EC%84%9C%20final%20%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A5%BC%20%EB%B6%99%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%9D%B4%EC%9C%A0/%EC%BD%94%EB%93%9C_%EB%B9%84%EA%B5%90.md)
+ 
+- RESTful API : Path parameters
 
